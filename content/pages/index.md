@@ -15,9 +15,15 @@ sections:
     backgroundSize: full
     title: I’m a front end react developer.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a passionate Front-End Developer with a strong focus on building
+      dynamic, responsive, and user-friendly web applications using React. With
+      a solid understanding of modern JavaScript (ES6+), HTML5, CSS3, and React
+      best practices, I have experience in creating seamless user interfaces and
+      optimizing web performance.Throughout my career, I’ve delivered
+      high-quality software solutions while working with back end developers,
+      product owners/business analysts, and fixing various issues while co,. I’m
+      adept at working with tools like Redux for state management, React Router
+      for seamless navigation, and styled-components for flexible styling.
     styles:
       self:
         height: auto
