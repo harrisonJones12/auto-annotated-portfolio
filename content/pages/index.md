@@ -21,9 +21,10 @@ sections:
       best practices, I have experience in creating seamless user interfaces and
       optimizing web performance.Throughout my career, I’ve delivered
       high-quality software solutions while working with back end developers,
-      product owners/business analysts, and fixing various issues while co,. I’m
-      adept at working with tools like Redux for state management, React Router
-      for seamless navigation, and styled-components for flexible styling.
+      product owners/business analysts, and fixing various issues while
+      collaborating with the QA team. I’m adept at working with tools like Redux
+      for state management, React Router for seamless navigation, and SASS for
+      styling.
     styles:
       self:
         height: auto
