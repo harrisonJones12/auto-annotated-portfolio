@@ -51,12 +51,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "LinkedIn ",
                 "url": "https://www.linkedin.com/in/harrison-jones-247ab6186/",
                 "altText": ""
