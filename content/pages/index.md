@@ -59,6 +59,14 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://legendary-smakager-861de9.netlify.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
