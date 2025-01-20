@@ -4,7 +4,9 @@ title: Audiophile
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: ''
+description: >-
+  This a full stack application built with React, and express as the backend
+  which is connected to a mongoDB database
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
