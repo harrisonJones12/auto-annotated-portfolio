@@ -4,9 +4,7 @@ title: 'Weather app '
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: >-
-  A simple react application, using the open weather api
-  https://legendary-smakager-861de9.netlify.app/
+description: 'A simple react application, using the open weather api.'
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
