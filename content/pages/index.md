@@ -60,7 +60,7 @@ sections:
         label: See all projects
         url: /projects
       - type: Link
-        label: Learn more
+        label: Weather app
         altText: ''
         url: '/https://legendary-smakager-861de9.netlify.app/'
         showIcon: false
