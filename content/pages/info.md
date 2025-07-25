@@ -77,7 +77,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/IBM logo.jpg
+        url: /images/DCCA.webp
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
