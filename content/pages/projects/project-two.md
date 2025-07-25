@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Weather app '
 colors: colors-a
-date: '2021-12-20'
+date: '2022-07-20'
 client: ''
 description: 'A simple react application, using the open weather api.'
 media:
