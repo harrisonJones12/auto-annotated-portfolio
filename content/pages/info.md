@@ -73,7 +73,7 @@ sections:
         altText: Comcast business logo
         caption: 'Comcast business '
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/IBM logo.jpg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
