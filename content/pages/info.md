@@ -187,26 +187,24 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Oct 2022 - Current**
 
-          * freelance @freelance.me
+          *   Front end developer working 
+              on the Macfin project.
 
-          **2018-2021**
+          **Mar 2021- Nov 2022 
+          IBM/Kyndryl**
 
-          * fullstack at this startup
+          *   Front end developer 
+              working on internal tools.
 
-          **2015**
+          **Jun 2019 - Feb 2021
+          Comcast Business**
 
-          * senior front-end at this place
+          *   UI developer on the 
+              Orion project aka MyAccount.
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
