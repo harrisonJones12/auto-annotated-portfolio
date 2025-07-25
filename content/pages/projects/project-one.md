@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Audiophile
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Project
 description: A full stack react & node/express application
 featuredImage:
   type: ImageBlock
