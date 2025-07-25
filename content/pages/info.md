@@ -157,7 +157,7 @@ sections:
       - type: Label
         label: Node.js
       - type: Label
-        label: Swift
+        label: MongoDb
   - type: DividerSection
     styles:
       self:
