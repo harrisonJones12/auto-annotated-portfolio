@@ -96,7 +96,7 @@ sections:
     styles:
       self:
         width: wide
-        height: auto
+        height: screen
         padding:
           - pt-8
           - pb-8
