@@ -71,7 +71,7 @@ sections:
       - type: ImageBlock
         url: /images/CB.png
         altText: Comcast business logo
-        caption: Logo one
+        caption: My first company I w
       - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
