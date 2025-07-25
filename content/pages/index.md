@@ -1,39 +1,23 @@
 ---
 type: PageLayout
-title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+title: Landing
 sections:
-  - elementId: ''
+  - type: HeroSection
+    title: >-
+      I'm a developer, digital artist, consultant and a bunch of other
+      impressive titles and buzz words.
+    subtitle: I am front end focused full stack developer.
+    text: >
+      To learn more about me as a developer from a code stand point take a look
+      at some of my projects down below.
+    actions: []
     colors: colors-f
     backgroundSize: full
-    title: I’m a front end react developer.
-    subtitle: >-
-      I am a passionate Front-End Developer with a strong focus on building
-      dynamic, responsive, and user-friendly web applications using React. With
-      a solid understanding of modern JavaScript (ES6+), HTML5, CSS3, and React
-      best practices, I have experience in creating seamless user interfaces and
-      optimizing web performance.Throughout my career, I’ve delivered
-      high-quality software solutions while working with back end developers,
-      product owners/business analysts, and fixing various issues while
-      collaborating with the QA team. I’m adept at working with tools like Redux
-      for state management, React Router for seamless navigation, and SASS for
-      styling.
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
           - pb-48
@@ -41,7 +25,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
@@ -50,33 +34,33 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    title: ''
+    subtitle: Recent projects
     actions:
       - type: Link
         label: See all projects
+        altText: ''
         url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -89,66 +73,58 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
   - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Got an interesting project? Tell me more...
+    text: ''
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
+        - type: TextFormControl
+          name: firstName
           label: First Name
           hideLabel: true
           placeholder: First Name
-          isRequired: true
           width: 1/2
-          type: TextFormControl
-        - name: lastName
+          isRequired: false
+        - type: TextFormControl
+          name: lastName
           label: Last Name
           hideLabel: true
           placeholder: Last Name
-          isRequired: false
           width: 1/2
-          type: TextFormControl
-        - name: email
+          isRequired: false
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
-          type: CheckboxFormControl
+          isRequired: true
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
       submitLabel: "Submit \U0001F680"
+      elementId: sign-up-form
       styles:
         submitLabel:
           textAlign: center
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -156,4 +132,13 @@ sections:
         textAlign: left
       text:
         textAlign: left
+addTitleSuffix: true
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg1.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 80
 ---

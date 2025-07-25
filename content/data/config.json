@@ -12,25 +12,15 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/harrison-jones-247ab6186/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
