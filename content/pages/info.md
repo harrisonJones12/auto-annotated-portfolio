@@ -155,7 +155,7 @@ sections:
       - type: Label
         label: Redux
       - type: Label
-        label: C++
+        label: Node.js
       - type: Label
         label: Swift
   - type: DividerSection
