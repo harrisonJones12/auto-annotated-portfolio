@@ -17,3 +17,5 @@ featuredImage:
   elementId: ''
 ---
 This project is a simple react application that calls the open weather api to get data based off the city name entered in the search bar.
+
+**Check out the code for this project here:** <https://github.com/harrisonJones12/weather-app>
