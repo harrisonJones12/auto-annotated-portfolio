@@ -107,6 +107,11 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
+        margin:
+          - mt-2
+          - ml-2
+          - mb-2
+          - mr-2
       title:
         textAlign: left
       subtitle:
