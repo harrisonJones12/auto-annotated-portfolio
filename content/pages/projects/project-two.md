@@ -7,7 +7,7 @@ client: ''
 description: 'A simple react application, using the open weather api.'
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-07-24 at 9.03.14 PM.png
   altText: Project image
 featuredImage:
   type: ImageBlock
