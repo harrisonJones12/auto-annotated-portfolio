@@ -7,7 +7,7 @@ client: Awesome client
 description: A simple react application utilizing redux-sagas
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-07-24 at 8.43.42 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
