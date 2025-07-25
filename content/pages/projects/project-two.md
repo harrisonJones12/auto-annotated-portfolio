@@ -12,7 +12,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-07-24 at 9.03.14 PM.png
-  altText: altText of the image
+  altText: Weather project image
   caption: Caption of the image
   elementId: ''
 ---
