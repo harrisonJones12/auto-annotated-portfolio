@@ -15,3 +15,7 @@ media:
   altText: Project image
 ---
 This project was created in my earlier days never the less I want to show case it as a means to show how far I have came a long as a web developer. 
+
+[Code on GitHub](https://github.com/harrisonJones12/fetch-or-post)
+
+[Live site](https://moonlit-melba-d1357c.netlify.app/)
