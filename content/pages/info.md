@@ -102,7 +102,7 @@ sections:
           - pb-8
           - pl-4
           - pr-4
-        justifyContent: flex-start
+        justifyContent: center
         borderRadius: none
         borderWidth: 0
         borderStyle: none
