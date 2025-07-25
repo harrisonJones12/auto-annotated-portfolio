@@ -6,7 +6,7 @@ sections:
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: I am front end focused full stack developer.
+    subtitle: I am a front end focused full stack developer.
     text: >
       To learn more about me as a developer from a code stand point take a look
       at some of my projects down below.
