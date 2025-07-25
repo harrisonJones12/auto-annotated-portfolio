@@ -207,7 +207,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Sass
       - type: Label
         label: React
       - type: Label
