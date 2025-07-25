@@ -158,6 +158,9 @@ sections:
         label: Node.js
       - type: Label
         label: MongoDb
+      - type: Label
+        label: Unit testing / React testing library
+        url: ''
   - type: DividerSection
     styles:
       self:
