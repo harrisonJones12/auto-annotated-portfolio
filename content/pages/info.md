@@ -70,7 +70,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/CB.png
-        altText: Logo one
+        altText: Comcast business logo
         caption: Logo one
       - type: ImageBlock
         url: /images/logo2.svg
