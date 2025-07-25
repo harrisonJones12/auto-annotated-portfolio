@@ -9,7 +9,7 @@ description: >-
   which is connected to a mongoDB database
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2025-07-24 at 9.04.12 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
