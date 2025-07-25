@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Fetch Or Post '
 colors: colors-a
-date: '2022-01-22'
+date: ''
 client: ''
 description: A simple react application utilizing redux-sagas and json place holder api
 featuredImage:
