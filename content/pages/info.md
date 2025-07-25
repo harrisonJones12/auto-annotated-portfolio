@@ -83,7 +83,7 @@ sections:
       - type: ImageBlock
         url: /images/logo4.svg
         altText: The sports place
-        caption: Logo four
+        caption: ''
       - type: ImageBlock
         url: /images/logo5.svg
         altText: Logo five
