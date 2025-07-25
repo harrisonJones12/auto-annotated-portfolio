@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: info
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -13,14 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      I am a passionate Front-End Developer with a strong focus on building
+      dynamic, responsive, and user-friendly web applications using React. With
+      a solid understanding of modern JavaScript (ES6+), HTML5, CSS3, and React
+      best practices, I have experience in creating seamless user interfaces and
+      optimizing web performance.Throughout my career, I’ve delivered
+      high-quality software solutions while working with back end developers,
+      product owners/business analysts, and fixing various issues while
+      collaborating with the QA team. I’m adept at working with tools like Redux
+      for state management, React Router for seamless navigation, and SASS for
+      styling.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/contact.jpg
       altText: Hero image
     styles:
       self:
@@ -207,17 +213,15 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Sass
       - type: Label
         label: React
-      - type: Label
-        label: Microsoft Office
       - type: Label
         label: Next.js
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Redux
       - type: Label
         label: C++
       - type: Label
@@ -239,7 +243,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [harrisonjones5678@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
