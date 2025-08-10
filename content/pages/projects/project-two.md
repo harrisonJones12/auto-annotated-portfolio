@@ -5,14 +5,10 @@ colors: colors-a
 date: '2022-07-20'
 client: ''
 description: 'A simple react application, using the open weather api.'
-media:
-  type: ImageBlock
-  url: /images/Screenshot 2025-07-24 at 9.03.14 PM.png
-  altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2025-07-24 at 9.03.14 PM.png
-  altText: Weather project image
+  url: /images/weather app image.png
+  altText: altText of the image
   caption: Caption of the image
   elementId: ''
 ---
