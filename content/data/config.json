@@ -55,7 +55,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "2674448587",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "harrisonjones5678@gmail.com",
             "emailAltText": "My email address ",
