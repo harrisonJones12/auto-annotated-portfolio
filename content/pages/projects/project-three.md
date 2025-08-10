@@ -7,7 +7,6 @@ client: ''
 description: A simple react application utilizing redux-sagas and json place holder api
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2025-07-24 at 8.43.42 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
