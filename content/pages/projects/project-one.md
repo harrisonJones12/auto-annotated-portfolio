@@ -11,7 +11,6 @@ featuredImage:
   url: /images/weather app image.png
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-07-24 at 9.04.12 PM.png
   altText: Project image
   caption: Test text
 ---
