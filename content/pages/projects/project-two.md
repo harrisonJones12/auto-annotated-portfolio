@@ -7,7 +7,6 @@ client: ''
 description: 'A simple react application, using the open weather api.'
 featuredImage:
   type: ImageBlock
-  url: /images/weather app image.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
