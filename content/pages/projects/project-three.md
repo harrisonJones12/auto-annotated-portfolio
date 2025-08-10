@@ -12,6 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Project image
+  url: /images/Fetch-or-post-project-image.png
 ---
 This project was created in my earlier days never the less I want to show case it as a means to show how far I have came a long as a web developer. 
 
