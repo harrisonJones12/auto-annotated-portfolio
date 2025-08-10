@@ -11,6 +11,12 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
   url: /images/weather app image.png
+media:
+  type: ImageBlock
+  url: /images/weather app image.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 This project is a simple react application that calls the open weather api to get data based off the city name entered in the search bar.
 
