@@ -5,12 +5,6 @@ colors: colors-a
 date: '2022-07-20'
 client: ''
 description: 'A simple react application, using the open weather api.'
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/default-image.png'
