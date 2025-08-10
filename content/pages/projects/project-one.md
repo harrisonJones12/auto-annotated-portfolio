@@ -8,7 +8,7 @@ description: A full stack react & node/express application
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
-  url: /images/weather app image.png
+  url: /images/Audiophile-project-image.png
 media:
   type: ImageBlock
   altText: Project image
